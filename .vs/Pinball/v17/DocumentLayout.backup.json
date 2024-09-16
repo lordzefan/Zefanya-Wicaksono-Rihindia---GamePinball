@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Tugas\\Unity\\Pinball\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|D:\\Tugas\\Unity\\Pinball\\assets\\scripts\\backtomainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backtomainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|d:\\tugas\\unity\\pinball\\assets\\scripts\\triggergamerover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggergamerover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|d:\\tugas\\unity\\pinball\\assets\\scripts\\backtomainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backtomainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|D:\\Tugas\\Unity\\Pinball\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|d:\\tugas\\unity\\pinball\\assets\\scripts\\creditcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creditcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB05E0C7-5321-6011-46F5-F08DDB27510C}|Assembly-CSharp.csproj|D:\\Tugas\\Unity\\Pinball\\assets\\scripts\\triggerramp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,20 +82,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "creditControl.cs",
+              "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\creditControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\creditControl.cs",
+              "ToolTip": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\creditControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\creditControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:50:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "backToMainMenu.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\backToMainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\backToMainMenu.cs",
               "ToolTip": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\backToMainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\backToMainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T08:26:31.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "triggerGamerOver.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\triggerGamerOver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\triggerGamerOver.cs",
@@ -110,14 +127,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\mainMenu.cs",
               "ToolTip": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\mainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\mainMenu.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T07:41:05.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "uiControl.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\uiControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\uiControl.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "triggerRamp.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\triggerRamp.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\triggerRamp.cs",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "scoreManager.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\scoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\scoreManager.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "vfxManager.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\vfxManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\vfxManager.cs",
@@ -165,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "vfxControler.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\vfxControler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\vfxControler.cs",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "audioManager.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\audioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\audioManager.cs",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ballControl.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\ballControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ballControl.cs",
@@ -201,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "bumperControl.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\bumperControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\bumperControl.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "switchControl.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\switchControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\switchControl.cs",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "laucherControl.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\laucherControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\laucherControl.cs",
@@ -237,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "sfxAudioControl.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\sfxAudioControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\sfxAudioControl.cs",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PaddleControl.cs",
               "DocumentMoniker": "D:\\Tugas\\Unity\\Pinball\\Assets\\Scripts\\PaddleControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PaddleControl.cs",

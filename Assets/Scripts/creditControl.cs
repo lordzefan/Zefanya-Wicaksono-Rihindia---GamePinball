@@ -16,7 +16,7 @@ public class creditControl : MonoBehaviour
 
     private void MainMenu()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("main_menu");
     }
 
 }
